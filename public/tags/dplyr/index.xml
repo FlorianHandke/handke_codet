@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dplyr on Handkecodet</title>
+    <link>/tags/dplyr/</link>
+    <description>Recent content in dplyr on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/dplyr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing house prices in Baden Wuertemberg - Part 2 - Exploring the data</title>
+      <link>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</guid>
+      <description>In the first post the data were collected. Now we want to get a first impression of the collected data. What is the structure of the data, how are they distributed and, most importantly, do they still need pre-processing?
+In the following I will present the data in different ways. In technical jargon this is called descriptive analytics. The following evaluations are only an excerpt of what is possible and do not claim to be complete.</description>
+    </item>
+    
+  </channel>
+</rss>

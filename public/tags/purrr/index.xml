@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>purrr on Handkecodet</title>
+    <link>/tags/purrr/</link>
+    <description>Recent content in purrr on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/purrr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing house prices in Baden Wurtemberg - Part 1</title>
+      <link>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</guid>
+      <description>The price of houses is widely discussed these days in germany:
+Real estate prices have risen nationwide in recent years. This is also shown by the present house price index of the Federal Statistical Office, which, starting from 2015 (index = 100), was around 116.3 points in 2018. Thus, prices have increased by 16.3 percent compared to the base year 2015. Nevertheless, there are regional differences in the development of real estate prices.</description>
+    </item>
+    
+  </channel>
+</rss>

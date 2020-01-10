@@ -1,0 +1,13 @@
+---
+title: Comparing house prices in Baden Wuertemberg- Part 2 - Exploring the data
+author: Florian Handke
+date: '2020-01-10'
+slug: comparing-house-prices-in-baden-wuertemberg-part-2-exploring-the-data
+categories: []
+tags:
+  - dplyr
+  - plotly
+  - scraping
+description: ''
+topics: []
+---

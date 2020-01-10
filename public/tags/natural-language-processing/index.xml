@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural language processing on Handkecodet</title>
+    <link>/tags/natural-language-processing/</link>
+    <description>Recent content in Natural language processing on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/natural-language-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shiny Webapp to extract the essential</title>
+      <link>/post/shiny-webapp-to-extract-the-essential/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-webapp-to-extract-the-essential/</guid>
+      <description>This week I told Oliver about my first blog post. He said if it wasn’t also possible for him to examine any text according to the principle that I showed in my July 27 post.
+But of course there are! With R you can create webapps that allow an improved user interaction.
+In order to realize the idea from the post, we will build a simple user interface, where the user can define a URL, based on which the text analysis will be done.</description>
+    </item>
+    
+    <item>
+      <title>Extracting the essential</title>
+      <link>/post/extracting-the-essential/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/extracting-the-essential/</guid>
+      <description>Reading large texts takes time. Sometimes it would be useful to extract essential sentences of a text to get a first impression of the whole. Therefore we will scrap a text from the web, do some string manipulation, tokenize it and finally extract the most important sentences by using Google Pagerank algorithm.
+To do so I will use the following R packages
+rvest
+stringr
+udpipe
+textrank</description>
+    </item>
+    
+  </channel>
+</rss>

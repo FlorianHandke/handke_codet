@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rvest on Handkecodet</title>
+    <link>/tags/rvest/</link>
+    <description>Recent content in rvest on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rvest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing house prices in Baden Wurtemberg - Part 1</title>
+      <link>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</guid>
+      <description>The price of houses is widely discussed these days in germany:
+Real estate prices have risen nationwide in recent years. This is also shown by the present house price index of the Federal Statistical Office, which, starting from 2015 (index = 100), was around 116.3 points in 2018. Thus, prices have increased by 16.3 percent compared to the base year 2015. Nevertheless, there are regional differences in the development of real estate prices.</description>
+    </item>
+    
+    <item>
+      <title>Shiny Webapp to extract the essential</title>
+      <link>/post/shiny-webapp-to-extract-the-essential/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-webapp-to-extract-the-essential/</guid>
+      <description>This week I told Oliver about my first blog post. He said if it wasn’t also possible for him to examine any text according to the principle that I showed in my July 27 post.
+But of course there are! With R you can create webapps that allow an improved user interaction.
+In order to realize the idea from the post, we will build a simple user interface, where the user can define a URL, based on which the text analysis will be done.</description>
+    </item>
+    
+    <item>
+      <title>Extracting the essential</title>
+      <link>/post/extracting-the-essential/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/extracting-the-essential/</guid>
+      <description>Reading large texts takes time. Sometimes it would be useful to extract essential sentences of a text to get a first impression of the whole. Therefore we will scrap a text from the web, do some string manipulation, tokenize it and finally extract the most important sentences by using Google Pagerank algorithm.
+To do so I will use the following R packages
+rvest
+stringr
+udpipe
+textrank</description>
+    </item>
+    
+  </channel>
+</rss>

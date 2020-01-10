@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scraping on Handkecodet</title>
+    <link>/tags/scraping/</link>
+    <description>Recent content in scraping on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scraping/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing house prices in Baden Wuertemberg - Part 2 - Exploring the data</title>
+      <link>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</guid>
+      <description>In the first post the data were collected. Now we want to get a first impression of the collected data. What is the structure of the data, how are they distributed and, most importantly, do they still need pre-processing?
+In the following I will present the data in different ways. In technical jargon this is called descriptive analytics. The following evaluations are only an excerpt of what is possible and do not claim to be complete.</description>
+    </item>
+    
+    <item>
+      <title>Comparing house prices in Baden Wurtemberg - Part 1</title>
+      <link>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</guid>
+      <description>The price of houses is widely discussed these days in germany:
+Real estate prices have risen nationwide in recent years. This is also shown by the present house price index of the Federal Statistical Office, which, starting from 2015 (index = 100), was around 116.3 points in 2018. Thus, prices have increased by 16.3 percent compared to the base year 2015. Nevertheless, there are regional differences in the development of real estate prices.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handkecodet</title>
+    <link>/</link>
+    <description>Recent content on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing ski resorts</title>
+      <link>/post/comparing-ski-resorts/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-ski-resorts/</guid>
+      <description>The ski season has just started. Therefore I was interested to know how the prices for different tickets are. So I compared and analyzed the prices of different ski resorts in Germany, Austria and Switzerland. https://www.skiinfo.de maintains a database with the prices of various ski areas in the categories day ticket and 6-day ticket. Each for adults and children.</description>
+    </item>
+    
+    <item>
+      <title>Running a half-marathon... and evaluating it</title>
+      <link>/post/running-a-half-marathon-and-evaluating-it/</link>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/running-a-half-marathon-and-evaluating-it/</guid>
+      <description>Last week I ran my first half marathon on the island Reichenau near Konstanz. You don’t win any prizes with 62nd place, but that wasn’t my goal either. Since the organizer put the results of the race online, I took a closer look at the data. I show the results in the following post.
+The data I evaluate in this blog post are freely accessible at SV Reichenau.</description>
+    </item>
+    
+    <item>
+      <title>Comparing house prices in Baden Wuertemberg - Part 2 - Exploring the data</title>
+      <link>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wuertemberg-part-2/</guid>
+      <description>In the first post the data were collected. Now we want to get a first impression of the collected data. What is the structure of the data, how are they distributed and, most importantly, do they still need pre-processing?
+In the following I will present the data in different ways. In technical jargon this is called descriptive analytics. The following evaluations are only an excerpt of what is possible and do not claim to be complete.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Biography I live in the Black Forest (Germany) and mainly deal with predictive analytics in the service area. My task is to detect and avoid unplanned failures by algorithms in advance.</description>
+    </item>
+    
+    <item>
+      <title>Comparing house prices in Baden Wurtemberg - Part 1</title>
+      <link>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/comparing-house-prices-in-baden-wurtemberg-part-1/</guid>
+      <description>The price of houses is widely discussed these days in germany:
+Real estate prices have risen nationwide in recent years. This is also shown by the present house price index of the Federal Statistical Office, which, starting from 2015 (index = 100), was around 116.3 points in 2018. Thus, prices have increased by 16.3 percent compared to the base year 2015. Nevertheless, there are regional differences in the development of real estate prices.</description>
+    </item>
+    
+    <item>
+      <title>Shiny Webapp to extract the essential</title>
+      <link>/post/shiny-webapp-to-extract-the-essential/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-webapp-to-extract-the-essential/</guid>
+      <description>This week I told Oliver about my first blog post. He said if it wasn’t also possible for him to examine any text according to the principle that I showed in my July 27 post.
+But of course there are! With R you can create webapps that allow an improved user interaction.
+In order to realize the idea from the post, we will build a simple user interface, where the user can define a URL, based on which the text analysis will be done.</description>
+    </item>
+    
+    <item>
+      <title>Extracting the essential</title>
+      <link>/post/extracting-the-essential/</link>
+      <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/extracting-the-essential/</guid>
+      <description>Reading large texts takes time. Sometimes it would be useful to extract essential sentences of a text to get a first impression of the whole. Therefore we will scrap a text from the web, do some string manipulation, tokenize it and finally extract the most important sentences by using Google Pagerank algorithm.
+To do so I will use the following R packages
+rvest
+stringr
+udpipe
+textrank</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;last-name&amp;quot;&amp;gt;Last Name&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;last-name&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;email&amp;quot;&amp;gt;E-Mail&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;email&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;email&amp;quot; required&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;city&amp;quot;&amp;gt;City&amp;lt;/label&amp;gt; &amp;lt;input id=&amp;quot;city&amp;quot; class=&amp;quot;pure-u-23-24&amp;quot; type=&amp;quot;text&amp;quot;&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;div class=&amp;quot;pure-u-1 pure-u-md-1-3&amp;quot;&amp;gt; &amp;lt;label for=&amp;quot;state&amp;quot;&amp;gt;State&amp;lt;/label&amp;gt; &amp;lt;select id=&amp;quot;state&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot;&amp;gt; &amp;lt;option&amp;gt;AL&amp;lt;/option&amp;gt; &amp;lt;option&amp;gt;CA&amp;lt;/option&amp;gt; &amp;lt;option&amp;gt;IL&amp;lt;/option&amp;gt; &amp;lt;/select&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;/div&amp;gt; &amp;lt;fieldset class=&amp;quot;pure-group&amp;quot;&amp;gt; &amp;lt;input type=&amp;quot;text&amp;quot; class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;A title&amp;quot;&amp;gt; &amp;lt;textarea class=&amp;quot;pure-input-1-2&amp;quot; placeholder=&amp;quot;Your message&amp;quot;&amp;gt;&amp;lt;/textarea&amp;gt; &amp;lt;/fieldset&amp;gt; &amp;lt;button type=&amp;quot;submit&amp;quot; class=&amp;quot;pure-button pure-button-primary&amp;quot;&amp;gt;Send&amp;lt;/button&amp;gt;  </description>
+    </item>
+    
+  </channel>
+</rss>

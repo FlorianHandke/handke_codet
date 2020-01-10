@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webapp on Handkecodet</title>
+    <link>/tags/webapp/</link>
+    <description>Recent content in Webapp on Handkecodet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 03 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/webapp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shiny Webapp to extract the essential</title>
+      <link>/post/shiny-webapp-to-extract-the-essential/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/shiny-webapp-to-extract-the-essential/</guid>
+      <description>This week I told Oliver about my first blog post. He said if it wasn’t also possible for him to examine any text according to the principle that I showed in my July 27 post.
+But of course there are! With R you can create webapps that allow an improved user interaction.
+In order to realize the idea from the post, we will build a simple user interface, where the user can define a URL, based on which the text analysis will be done.</description>
+    </item>
+    
+  </channel>
+</rss>
