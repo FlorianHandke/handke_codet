@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://handkecodet.netlify.com"
 languageCode = "en-us"
 title = "Handkecodet"
 theme = "blackburn"
@@ -57,4 +57,4 @@ paginate = 10
   stackoverflow = "10519448"
   linkedin = "florian-handke-a16b14114"
   
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+# ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
